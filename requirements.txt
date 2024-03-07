@@ -1,0 +1,8 @@
+astropy
+matplotlib
+numpy
+pandas
+streamlit
+sunpy
+pytest-astropy
+pytest-sugar
